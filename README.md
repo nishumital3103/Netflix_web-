@@ -1,6 +1,6 @@
 # Netflix_web (using UI/UX)
 # LINK -
-https://www.figma.com/proto/a4XDWpTx2tZZwi9h1TqQvx/Untitled?node-id=7-329&t=jIuJuQgRg0wXqB5E-0&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=7%3A329&show-proto-sidebar=1
+https://www.figma.com/proto/a4XDWpTx2tZZwi9h1TqQvx/Netflix_by_nishu_mittal.?node-id=7-329&t=NLIHN1XMfKB36td7-0&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=7%3A329&show-proto-sidebar=1
 
 ##Overview
 
